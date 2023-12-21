@@ -1,9 +1,9 @@
-Team 127 - Predictive Analytics for the Fantasy Football Draft README
-Members - Alex Haan, Venkata Ale, Brent Speelman, Jesse Keith, Nandhini Soundaiah
+Predictive Analytics for the Fantasy Football Draft README
+Alex Haan
 
 Description:
 
-This README was developed by team 127 to supply users all the documentation and code required to predict Fantasy Football scores for the upcoming season. 
+This README was developed Alex Haan to supply users all the documentation and code required to predict Fantasy Football scores for the upcoming season. 
 Within this, the user will gather a variety of data sources dating from 2010 to 2021 containing player historical fantasy performance, average draft positions, team strength of schedule, and more. 
 Once the data is gathered, the additional code will transform the weekly data and other scraped sources into one annual data source for model training, testing, and 2022 predictions. 
 Lastly, with the predictions completed, the data is then organized for Tableau reporting.
